@@ -23,6 +23,7 @@ AGENCIES = {
 }
 
 RECIPIENT_TYPES = [
+    "higher_education",
     "public_institution_of_higher_education",
     "private_institution_of_higher_education",
     "minority_serving_institution_of_higher_education",
